@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/kxml2-2.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/xmlpull_1_1_3_4c.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="cn_new">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/bin/cn_new.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
